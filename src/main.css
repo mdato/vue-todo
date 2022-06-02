@@ -238,6 +238,10 @@ input:checked ~ .bubble::after {
   color: var(--grey);
 }
 
+.greeting .title {
+  color: white;
+}
+
 @media only screen and (min-width: 576px) {
   html {
     display: flex;
